@@ -35,6 +35,8 @@ Brief description: (e.g., An interactive real estate auction service with proper
   <img src="https://img.shields.io/badge/ultramsg-API-blue?style=for-the-badge" alt="UltraMsg API" height="30"/>
   <img src="https://img.shields.io/badge/RESTful-API-important?style=for-the-badge" alt="RESTful API" height="30"/>
   <img src="https://img.shields.io/badge/XAMPP-FA7A3D?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" height="30"/>
+  ![SMTP Email](https://img.shields.io/badge/SMTP_Email-using-green?style=for-the-badge&logo=mail.ru)
+
 </p>
 
 ---
