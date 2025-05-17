@@ -21,12 +21,6 @@ Brief description: (e.g., An interactive real estate auction service with proper
 📫 [LinkedIn]([your_linkedin_link_here](https://www.linkedin.com/in/eatzaz-aldosri-86613b275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eatzaz&show_icons=true&theme=radical)
-
----
 ## 🛠️ Tools & Technologies I Use
 
 <p align="center">
