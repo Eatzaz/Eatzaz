@@ -9,11 +9,11 @@ I enjoy building high-performance systems and APIs, and I love turning complex i
 ## 📌 Featured Projects
 
 🔗 [Tashkelah]([your_first_project_link](https://github.com/Eatzaz/Tashkelah.git))  
-Brief description: A real estate broker to sell real estate and make auctions on and buy these properties
+Brief description: It is a platform that aims to improve the sports experience for amateurs, by connecting players to the best stadiums and sports
+facilities. It enables you to play with a random team or with your friends, making your experience more flexible and enjoyable. 
 
 🔗 [Real State]([your_second_project_link](https://github.com/Eatzaz/capstone3.git))  
-Brief description: It is a platform that aims to improve the sports experience for amateurs, by connecting players to the best stadiums and sports
-facilities. It enables you to play with a random team or with your friends, making your experience more flexible and enjoyable.
+Brief description: A real estate broker to sell real estate and make auctions on and buy these properties
 
 ---
 
