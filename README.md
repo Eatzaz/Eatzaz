@@ -24,9 +24,12 @@ Brief description: A real estate broker to sell real estate and make auctions on
 ---
 ## 🛠️ Tools & Technologies I Use
 
+## 🛠️ Tools & Technologies I Use
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://github.com/AbrarSaud/assets/blob/main/spring-boot-logo.png?raw=true" alt="Spring Boot" width="50" height="50"/>src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://github.com/AbrarSaud/assets/blob/main/spring-boot-logo.png?raw=true" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
@@ -35,12 +38,6 @@ Brief description: A real estate broker to sell real estate and make auctions on
   <img src="https://img.shields.io/badge/ultramsg-API-blue?style=for-the-badge" alt="UltraMsg API" height="30"/>
   <img src="https://img.shields.io/badge/RESTful-API-important?style=for-the-badge" alt="RESTful API" height="30"/>
   <img src="https://img.shields.io/badge/XAMPP-FA7A3D?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" height="30"/>
-
-
-
-
-
 </p>
 
----
 > ✨ Always striving to grow my skills and learn from every line of code I write.
