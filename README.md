@@ -36,7 +36,7 @@ Brief description: A real estate broker to sell real estate and make auctions on
   <img src="https://img.shields.io/badge/ultramsg-API-blue?style=for-the-badge" alt="UltraMsg API" height="30"/>
   <img src="https://img.shields.io/badge/RESTful-API-important?style=for-the-badge" alt="RESTful API" height="30"/>
   <img src="https://img.shields.io/badge/XAMPP-FA7A3D?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Boot.svg" alt="Spring Boot" width="50" height="50"/>
+<img src="https://i.imgur.com/3lzT3pi.png" alt="Spring Boot" width="50" height="50"/>
 
 
 </p>
